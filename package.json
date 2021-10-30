@@ -1,0 +1,22 @@
+{ "name": "ubuntu-drivers-helper-pmb",
+  "version": "0.0.1",
+  "description": "Customize `ubuntu-drivers autoinstall`.",
+  "keywords": [],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/ubuntu-drivers-helper-pmb/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/ubuntu-drivers-helper-pmb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/ubuntu-drivers-helper-pmb/issues"
+  },
+  "contributors": [],
+
+  "private": true, "license": "ISC",
+
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
